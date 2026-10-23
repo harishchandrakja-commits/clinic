@@ -8,9 +8,10 @@ A responsive clinic operations prototype for an audiology and speech therapy cen
 - Speech therapy attendance register with package session balances
 - Billing for hearing aids, hearing tests, and speech therapy
 - Receivables, service/rate list, report summaries, and CSV export
+- Clinic logo supplied by the user
 
 ## Run
-Open `index.html` in a modern browser. No build step is required.
+Open index.html in a modern browser. No build step is required.
 
 ## Prototype data
 All patient names, schedule entries, balances, metrics, and rates are sample data. New patient records, invoices, and attendance changes are saved in this browser's local storage. They are not shared across devices or users.
